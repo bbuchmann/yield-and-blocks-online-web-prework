@@ -1,6 +1,6 @@
-def hello_t
-
+def Hello_t = ['Tim',"Tom","Jim"]
+  
 end
 
-# call your method here!
+
 
